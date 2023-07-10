@@ -1,4 +1,4 @@
-print("Programa para asignar variables \n")
+print("Programa2. para asignar variables \n")
 A = 10
 B = 20
 AUX = 0

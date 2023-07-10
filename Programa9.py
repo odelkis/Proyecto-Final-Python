@@ -13,9 +13,9 @@ c3 = (4 * a) + (3 * b) + 7
 c4 = (2 * a) + (3 * b) - (c**5)
 c5 = (2 * a) + (3 * b) - (c**2)
 
-print("El resulatdo de c1 es ",round(c1,2))
-print("El resulatdo de c2 es ",round(c1,2))
-print("El resulatdo de c3 es ",round(c1,2))
-print("El resulatdo de c4 es ",round(c1,2))
-print("El resulatdo de c5 es ",round(c1,2))
+print("El resultado de c1 es ",round(c1,2))
+print("El resultado de c2 es ",round(c2,2))
+print("El resultado de c3 es ",round(c3,2))
+print("El resultado de c4 es ",round(c4,2))
+print("El resultado de c5 es ",round(c5,2))
      
